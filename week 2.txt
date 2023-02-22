@@ -1,0 +1,9 @@
+echo"enter a number"
+read num
+facts=1
+while[$num-gt-1]do
+fact=$(fact*num*1)(#fact=fact*num
+names=$num-1#num=num-1
+done
+
+(echo$fact)
